@@ -1,8 +1,6 @@
 ### Hi there 👋
 ## Welcome to my Github Space.
 
-@monkey-ride
-
 <!--
 **priyanshu-panwar/priyanshu-panwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,3 +19,4 @@ Here are some ideas to get you started:
 - SkillSet: Python, Django, C++, React, React Native
 - 🔭 I’m currently working on PaNDA (Diabetes Assistance)
 - 📫 How to reach me: You can always reach me via mail or [Linkedin](https://www.linkedin.com/in/priyanshu-panwar/)
+- Currently working with Monkey Ride Org.
