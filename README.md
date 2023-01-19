@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- SkillSet: Python, Django, C++, React, React Native
-- 🔭 I’m currently working on PaNDA (Diabetes Assistance)
-- 📫 How to reach me: You can always reach me via mail or [Linkedin](https://www.linkedin.com/in/priyanshu-panwar/)
-- Currently working with Monkey Ride Org.
+**Building your back door.**
+
+- **SkillSet**: Python, Django, C++, React, React Native, FastAPI, SQL
+- 🔭 I’m currently working in **Samsung Research Institute Bangalore** building **backend powered by Python FastAPI**
+- 📫 How to reach me: You can always reach me via mail or **[Linkedin](https://www.linkedin.com/in/priyanshu-panwar/)**
