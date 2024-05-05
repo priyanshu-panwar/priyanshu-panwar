@@ -1,26 +1,19 @@
-### Hi there 👋
-## Welcome to my Github Space.
+Welcome to my GitHub profile!
 
-### PawPalz, where pets share their stories.
-[Download From Play Store](https://play.google.com/store/apps/details?id=com.pawpalz.PawPalz&pli=1)
+I'm Priyanshu, a software engineer passionate about building innovative solutions that make a difference. Currently, I'm part of the dynamic team at Blink Health, where we're revolutionizing healthcare technology to improve access and affordability for all.
 
-<!--
-**priyanshu-panwar/priyanshu-panwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Technologies & Tools
 
-Here are some ideas to get you started:
+- Languages: C++, Java, Python, JavaScript
+- Frameworks: FastAPI, React, React Native, Next.js, Django, Spring Boot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Experience
 
-**Building your back door.**
+- Blink Health (Current)
+- Samsung
+- Amazon
 
-- **SkillSet**: Python, Django, C++, React, React Native, FastAPI, SQL
-- 🔭 I’m currently working in **Samsung Research Institute Bangalore** building **backend powered by Python FastAPI**
-- 📫 How to reach me: You can always reach me via mail or **[Linkedin](https://www.linkedin.com/in/priyanshu-panwar/)**
+## 📫 Let's Connect
+- LinkedIn: [My Profile](https://www.linkedin.com/in/priyanshu-panwar)
+- Email: priyanshu009ch@gmail.com
+- Youtube: [My Channel](https://www.youtube.com/channel/UC7HNO0Zi5hl7pSup-zpuc4A)
